@@ -11,17 +11,19 @@
 
 
 .zoom-button {
-      display: inline-block;
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: bold;
-      text-decoration: none;
-      color: white;
-      background-color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #003366; /* Change the text color as needed */
+  background-color: #ffffff; /* Change the background color as needed */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
 /* Add a white background color to the top navigation */
 
